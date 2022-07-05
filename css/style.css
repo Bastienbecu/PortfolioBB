@@ -309,10 +309,16 @@ header{
   color: var(--main-color);
 }
 .about-data h2{
-  font-size: 2rem;
+  font-size: 5rem;
   line-height: 2.6rem;
   font-weight: 700;
-  margin: 1rem 0;
+  
+  
+}
+.about-data p{
+  color: black;
+  font-size: x-large;
+  font-weight: bold;
 }
 .btn{
   font-size: 0.97rem;
